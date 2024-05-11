@@ -23,7 +23,7 @@
 - Substitua a chave da API do Google Generative AI no código (configuração da API Gemini).
 - Carregue o seu dataframe no script (df = pd.read_csv('seu_dataframe.csv')).
 OBS: Nesse repostorio existem dois arquivos csv, você pode testar com qualquer um deles, ou importar outro arquivo.
-- Execute o script: python gerador_dashboards.py.
+- Execute o script: python gerador_dashboards.ipynb.
 - O script irá gerar os dashboards e as descrições correspondentes.
 
 #Observações:
